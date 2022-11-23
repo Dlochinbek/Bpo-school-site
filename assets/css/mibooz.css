@@ -362,6 +362,7 @@ ul {
     position: relative;
     display: block;
     display: flex;
+    align-items: center;
 }
 
 .main-menu-wrapper__logo {
