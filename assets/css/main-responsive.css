@@ -211,32 +211,7 @@
     .location__text {
         font-size: 15px;
     }
-
-
-
-
-
-
-
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /* Tablet Layout: 768px. */
@@ -545,33 +520,7 @@
         margin-left: 0;
         margin-top: 30px;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
-
-
-
-
 
 
 /* Mobile Layout: 320px. */
@@ -1190,27 +1139,7 @@
         position: relative;
         top: 20px;
     }
-
-
-
-
-
-
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 @media only screen and (min-width: 1200px) and (max-width: 1515px) {
@@ -1226,9 +1155,6 @@
     .project-two__work .project-one__tagline:before {
         left: -35px;
     }
-
-
-
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1435px) {
@@ -1273,17 +1199,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 /*--------------------------------------------------------------
 # Slider All Responsice Css
 --------------------------------------------------------------*/
@@ -1324,7 +1239,6 @@
 }
 
 
-
 @media only screen and (min-width: 1200px) and (max-width: 1640px) {
     .main-slider-three__img-1 {
         right: -148px;
@@ -1341,7 +1255,6 @@
     .main-slider-three__img-2 img {
         width: 70%;
     }
-
 }
 
 
@@ -1390,11 +1303,6 @@
     .slider-bottom-box {
         max-width: 960px;
     }
-
-
-
-
-
 }
 
 
@@ -1450,17 +1358,6 @@
     .slider-bottom-box {
         max-width: 720px;
     }
-
-
-
-
-
-
-
-
-
-
-
 }
 
 
@@ -1561,23 +1458,7 @@
     .slider-bottom-box {
         max-width: 540px;
     }
-
-
-
-
-
-
-
-
-
-
-
 }
-
-
-
-
-
 
 
 /*--------------------------------------------------------------
@@ -1611,14 +1492,6 @@
     .main-menu-two .mobile-nav__toggler:hover {
         color: var(--mibooz-black);
     }
-
-
-
-
-
-
-
-
 }
 
 
@@ -1673,7 +1546,4 @@
         padding: 0 30px;
         z-index: 91;
     }
-
-
-
 }
